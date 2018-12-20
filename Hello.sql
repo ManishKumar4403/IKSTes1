@@ -1,1 +1,1 @@
-SELECT 'Hello', 'Manish', 'Kumar';
+SELECT 'Hello', 'Manish ';
